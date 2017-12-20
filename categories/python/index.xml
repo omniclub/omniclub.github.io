@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OmniClub</title>
-    <link>/</link>
-    <description>Recent content on OmniClub</description>
+    <title>Python on OmniClub</title>
+    <link>/categories/python/</link>
+    <description>Recent content in Python on OmniClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>&lt;p&gt;This is the first part of the Beginning of Data Science series, mainly about the fundamental data structures and statements of python 3.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 30 May 2014 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>OmniClub, a club of omni.</description>
     </item>
     
   </channel>
