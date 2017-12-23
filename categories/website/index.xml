@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on OmniClub</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on OmniClub</description>
+    <title>Website on OmniClub</title>
+    <link>/categories/website/</link>
+    <description>Recent content in Website on OmniClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>/2017/12/23/git-building-a-website-with-github-pages/</guid>
       <description>&lt;p&gt;Beginning of git and building a website with Github Pages.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Beginning with Python (1) &amp; Hypothesis Testing</title>
-      <link>/2017/12/09/beginning-with-python-1-hypothesis-testing/</link>
-      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/12/09/beginning-with-python-1-hypothesis-testing/</guid>
-      <description>&lt;p&gt;This is the first part of the Beginning of Data Science series, mainly about the fundamental data structures and statements of python 3.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

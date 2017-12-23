@@ -6,10 +6,21 @@
     <description>Recent content on OmniClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git &amp; Building a website with GitHub Pages</title>
+      <link>/2017/12/23/git-building-a-website-with-github-pages/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/23/git-building-a-website-with-github-pages/</guid>
+      <description>&lt;p&gt;Beginning of git and building a website with Github Pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Beginning with Python (1) &amp; Hypothesis Testing</title>

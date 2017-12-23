@@ -28,5 +28,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Tools</title>
+      <link>/categories/tools/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>/categories/website/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/website/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
